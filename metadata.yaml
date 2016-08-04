@@ -1,0 +1,28 @@
+_repo: The-House-of-Life_3692
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rossetti, Dante Gabriel
+    aliases:
+    - Rosetti, Dante Gabriel
+    - Rossetti, Gabriel Charles Dante
+    birthdate: 1828
+    deathdate: 1882
+    gutenberg_agent_id: '1268'
+    url: http://www.gutenberg.org/2009/agents/1268
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti
+description: Part 1. Youth and change -- Part 2. Change and fate -- Appendix
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: The House of Life
+url: http://www.gutenberg.org/ebooks/3692
